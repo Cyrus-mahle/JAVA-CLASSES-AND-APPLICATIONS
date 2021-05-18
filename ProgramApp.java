@@ -1,3 +1,9 @@
+/*
+Date created : 14/May/2021
+Author       :Nyakama Mahle 
+Program Description :A program that print out "Programming is Fun"
+
+*/
 import javax.swing.JOptionPane; // import library
 
 public class ProgramApp {          // start class
